@@ -2,7 +2,8 @@
 
 This work was developed in ieeta, under the project ?, in the context of the thesis "Machine Learning in physiological signals for emotional classification". It aims to develop a machine learning algorithm, more specirficaly a SVM model, to identify emotions (Fear, Happy, Neutral) and their level of intensity, through the information of the physiological signals ECG, EDA and EMG of a subject.
 
-This repository is organized into different tasks that were carried out throughout the work:
+## **Repository Organization:**
+This repository contains several Python scripts containing the analysis of these time series. The Jupyter notebooks are divided by the sections of the construction of the model in accordance with the dissertation. The different sections carried out throughout the work are:
 - Preprocessing
 - HR Exploratory analysis
 - Classification by SVM
