@@ -7,6 +7,9 @@ This repository is organized into different tasks that were carried out througho
 - HR Exploratory analysis
 - Classification by SVM
 
-**Contacts:**
+## **More information:**
+The master's thesis can be consulted at xxxxxx.
+
+## **Contacts:**
 Beatriz Henriques, Author of the dissertation, beatriz.henriques@ua.pt
 Sónia Gouveia, PhD Researcher, Supervisor of the dissertation, sonia.gouveia@ua.pt.
