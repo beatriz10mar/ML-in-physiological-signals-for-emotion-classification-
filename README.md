@@ -13,4 +13,5 @@ The master's thesis can be consulted at xxxxxx.
 
 ## **Contacts:**
 Beatriz Henriques, Author of the dissertation, beatriz.henriques@ua.pt
+
 Sónia Gouveia, PhD Researcher, Supervisor of the dissertation, sonia.gouveia@ua.pt.
