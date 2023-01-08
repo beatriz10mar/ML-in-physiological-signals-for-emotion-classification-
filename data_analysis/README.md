@@ -7,9 +7,9 @@ This section contains all the code made for the analysis of the data. Addionatly
 - scikit-learn (1.0.2);
 - scipy (1.7.3);
 - matplotlib (3.5.1);
-- neurokit2 (0.2.1); <sup>1</sup> 
-- plotly (5.6.0); <sup>2</sup>
-- imbalanced-learn (0.7.0). <sup></sup>3
+- neurokit2 (0.2.1)<sup>1</sup> ; 
+- plotly (5.6.0)<sup>2</sup> ; 
+- imbalanced-learn (0.7.0)<sup>3</sup>. 
 
 
 
