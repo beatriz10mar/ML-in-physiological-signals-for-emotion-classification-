@@ -1,3 +1,5 @@
+# EMOTE Database
+
 The EMOTE is the acronymous for Emotion MultimOdal daTabasE where “emote” stands for “give emotion to, in a stafe or movie role”. This dataset is composed of files with simultaneous physiological signals (EMG MF, EMG TR, EDA, and ECG, 1000 Hz of sampling rate) collected from 57 emotionally stimulated participants in two sessions using movie excerpts.
 
 This repository contains three folders and a .csv file. The csv present the list of participants and the name of the corresponding files. Each folder correspond to one participant, and it is named with the participant code. In each folder there is two .txt file, one to each experimental session. The .txt file contains the experimental data of the corresponding participant in a given session.
