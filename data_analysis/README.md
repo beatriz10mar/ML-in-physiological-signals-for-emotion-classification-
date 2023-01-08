@@ -17,10 +17,11 @@ It is necessary to install the packages and libraries:
 - plotly (5.6.0)<sup>2</sup> ; 
 - imbalanced-learn (0.7.0)<sup>3</sup>. 
 
-##** Organization**:
-
-
-
 1. https://neuropsychology.github.io/NeuroKit/installation.ht
 2. https://plotly.com/python/getting-started/#installation
 3. https://imbalanced-learn.org/stable/
+
+
+## ** Organization**:
+
+
