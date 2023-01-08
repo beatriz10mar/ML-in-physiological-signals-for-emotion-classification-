@@ -1,4 +1,10 @@
-This section contains all the code made for the analysis of the data. Addionatly, it is necessary to install the packages and libraries:
+# Data Analysis
+
+This section contains all the code made for the analysis of the data.
+
+## **Packages**:
+
+It is necessary to install the packages and libraries:
 - pandas (1.4.2);
 - numpy (1.20.3);
 - statistics;
@@ -11,7 +17,7 @@ This section contains all the code made for the analysis of the data. Addionatly
 - plotly (5.6.0)<sup>2</sup> ; 
 - imbalanced-learn (0.7.0)<sup>3</sup>. 
 
-
+##** Organization**:
 
 
 
