@@ -1,3 +1,5 @@
+# Emotional model
+
 In this step multiple SVM-based emotional models were constructed and evaluated by performance metrics. A sensitivity analysis was computed while variating the kernel, gamma, degree, and C parameters of the SVM with a 5-fold CV. Also, it was elaborated different emotional classifications taking into account different data, with or without an ensemble, and with different classes. 
 
 The models were evaluated by the following perfomance metrics:
