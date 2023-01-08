@@ -1,4 +1,4 @@
-# Machine-learning-in-physiological-signals-for-emotion-classification
+# Machine learning in physiological signals for emotion classification
 
 This repository was created in the context of the thesis "Machine Learning in physiological signals for emotional classification" and it aimed the development of a machine learning algorithm, more specirficaly a *SVM model*, that identify emotions (Fear, Happy, Neutral) and their level of intensity, through the information of the physiological signals ECG of a subject. It was developed at the University of Aveiro (UA), within the scope of the project Institute of Electronic Engineering and Informatics of Aveiro (UIDB/00127/2020). The experimental protocol obtained the ethical approval by the Ethics Committee of the UA (12-CED/2020) and the Commissioner of Data Protection of the UA.
 
