@@ -22,6 +22,6 @@ It is necessary to install the packages and libraries:
 3. https://imbalanced-learn.org/stable/
 
 
-## ** Organization**:
+##  Organization:
 
 
