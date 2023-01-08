@@ -38,7 +38,7 @@ sys.path.append(
 
 # In[2]:
 
-
+# Change the directory
 path_excel = r'C:\Users\Bia10\OneDrive - Universidade de Aveiro\5 ano\Tese_Beatriz_Henriques\Processing the Signals'
 path = r'C:\Users\Bia10\OneDrive - Universidade de Aveiro\5 ano\Tese_Beatriz_Henriques\Database'
 
