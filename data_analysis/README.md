@@ -1,15 +1,14 @@
 # Data Analysis
 
-This section contains all the code made for the analysis of the data. The aim is to analyse the physiological data collected in order to extrcat the information more relevant and that best describes the emotional states stimulated to introduce in the emotional model.
+This section contains all the code made for the analysis of the data. The aim is to analyse the physiological data collected in order to extract the information more relevant and that best describes the emotional states stimulated to introduce the emotional model.
 
 ##  Organization:
 
-- Preprocessing: read the physiological signals and verification of the data quality;
+- Preprocessing: read the physiological signals and verification the data quality;
 - Features Extraction: extract the features of interest in the ECG signal, which were organized in a dataframe;
 - Stationarity Analysis: scan of the previous dataset into the ADF and KPSS stationarity test;
 - HR Exploratory Analysis: exploratory analysis on the heart rate (HR) feature of the ECG to evaluate the HR progression during the emotional procedure;
-- Feature Selection: select the features with higher discriminationto feed the model in the section.
-
+- Feature Selection: select the features with higher discrimination to feed the model in the section.
 
 
 ## **Packages**:
